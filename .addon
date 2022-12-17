@@ -1,8 +1,8 @@
 {
   "Title": "FPS Sample",
   "Type": "game",
-  "Org": "devultj",
-  "Ident": "template_fps",
+  "Org": "moistfellers",
+  "Ident": "sbox-tatical",
   "Tags": "",
   "Schema": 1,
   "HasAssets": true,
@@ -69,6 +69,7 @@
           "r": "Trigger"
         }
       ]
-    }
+    },
+    "ParentPackage": "moistfellers.sbox-tatical#local"
   }
 }
