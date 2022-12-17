@@ -1,2 +1,2 @@
 # sbox-tatical
- A tatical FPS for s&box.
+ A tactical FPS for s&box.
